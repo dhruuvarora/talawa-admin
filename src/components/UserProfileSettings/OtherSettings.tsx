@@ -2,7 +2,7 @@ import ChangeLanguageDropDown from 'components/ChangeLanguageDropdown/ChangeLang
 import React from 'react';
 import { Card, Form } from 'react-bootstrap';
 import { useTranslation } from 'react-i18next';
-import styles from './UserProfileSettings.module.css';
+import styles from '../../style/app.module.css';
 
 /**
  * OtherSettings component displays a card with settings options such as changing the language.
